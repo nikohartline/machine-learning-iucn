@@ -1,6 +1,6 @@
 # Machine learning for insights into the IUCN Red List data
 
-The data were mined using another set of code from my github:
+The data were mined using a previously developed tool:
 https://github.com/nikohartline/hartline-code-portfolio/tree/master/IUCN%20Data%20Mining%2C%20Analysis%2C%20and%20Visualization%20Scripts/Python%20scripts%20and%20outputs
 
 The output of the data mining provided information on the population trend of a species (increasing, decreasing, stable, or unknown) for over 28,000 species. This project aimed to identify the effectiveness of a machine learning algorithm to predict based on the wording of descriptions of conservation actions whether a species will be increasing or in decline.
